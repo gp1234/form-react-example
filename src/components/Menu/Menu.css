@@ -1,0 +1,18 @@
+.menu {
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.menu li {
+    margin: 0 2rem;
+}
+ul li {
+    list-style: none;
+}
+
+.menu-container {
+    position: relative;
+    right: 5%;
+}
